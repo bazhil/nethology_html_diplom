@@ -1,0 +1,78 @@
+@font-face {
+    font-family:'myriadpro';
+    src: url('fonts/myriadpro-regular.eot');
+	src: url('fonts/myriadpro-regular.eot?#iefix') format('embedded-opentype'),
+		url('fonts/myriadpro-regular.woff2') format('woff2'),
+		url('fonts/myriadpro-regular.woff') format('woff'),
+		url('fonts/myriadpro-regular.svg#MyriadPro-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-04D9;
+}
+
+@font-face {
+    font-family:'montserrat';
+    src: url('fonts/montserrat-bold.eot');
+    src: url('fonts/montserrat-bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/montserrat-bold.woff2') format('woff2'),
+        url('fonts/montserrat-bold.woff') format('woff'),
+        url('fonts/montserrat-bold.svg#Montserrat Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'montserrat';
+    src: url('fonts/montserrat-regular.eot');
+    src: url('fonts/montserrat-regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/montserrat-regular.woff2') format('woff2'),
+        url('fonts/montserrat-regular.woff') format('woff'),
+        url('fonts/montserrat-regular.svg#Montserrat-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'roboto';
+    src: url('fonts/roboto-regular.eot');
+    src: url('fonts/roboto-regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/roboto-regular.woff2') format('woff2'),
+        url('fonts/roboto-regular.woff') format('woff'),
+        url('fonts/roboto-regular.svg#Roboto Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2044;
+}
+
+
+@font-face {
+    font-family:'Kaushan Script';
+    src: url('fonts/kaushanscript-regular.eot');
+    src: url('fonts/kaushanscript-regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/kaushanscript-regular.woff2') format('woff2'),
+        url('fonts/kaushanscript-regular.woff') format('woff'),
+        url('fonts/kaushanscript-regular.svg#KaushanScript-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'roboto';
+    src: url('fonts/roboto-lightitalic.eot');
+    src: url('fonts/roboto-lightitalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/roboto-lightitalic.woff2') format('woff2'),
+        url('fonts/roboto-lightitalic.woff') format('woff'),
+        url('fonts/roboto-lightitalic.svg#o LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+    unicode-range: U+0020-2044;
+}
